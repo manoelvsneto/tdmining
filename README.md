@@ -1,6 +1,6 @@
 # Official repository on TDMINING.
 
-TDMINING is a process to generate data and knowledge about code odors, with a focus on the developer.
+TDMINING is a process to generate data and knowledge about code smells, with a focus on the developer.
 
 TDMINING is a process addressed in master's dissertation research, as presented on 10/13/2021. https://www.ppgia.pucpr.br/pt/?q=node/295.
 
