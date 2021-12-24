@@ -1,0 +1,10 @@
+PYTHON/.idea
+PYTHON/.ipynb_checkpoints
+PYTHON/.vscode
+PYTHON/venv
+PYTHON/__pycache__
+SQL/.vs
+SQL/INDUSTRY/.vs
+SQL/**/*.json
+SQL/**/*.sqlite
+SQL/**/*.ssms_suo
