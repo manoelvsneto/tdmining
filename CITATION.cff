@@ -1,0 +1,27 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: TDMINING Process
+message: >-
+  TDMINING is a process to generate data and
+  knowledge about code smells, with a focus on the
+  developer.
+type: software
+authors:
+  - email: manoel.silveira@pucpr.edu.br
+    given-names: Manoel
+    name-particle: Manoel Valerio
+    family-names: Silveira
+    name-suffix: Neto
+    orcid: 'https://orcid.org/0000-0003-0470-5350'
+    affiliation: PUCPR - PPGIA
+  - given-names: Sheila
+    name-particle: Sheila
+    family-names: Reinehr
+    affiliation: PUCPR-PPGIA
+    orcid: 'https://orcid.org/0000-0001-9430-7713'
+  - given-names: Andreia
+    name-particle: Andreia
+    affiliation: PUCPR-PPGIA
+    family-names: Malucelli
