@@ -20,6 +20,8 @@ DATA_SQLSERVER> Data backup file, in Microsoft SQL Server format. Contains data 
 
 DOCS> Forms used in the experiment.
 
+DOCS>PROCESS_TDMINING> Detailed documentation about process. With 5W2H and RACI Matrix.
+
 PYTHON> Script used to process the data of the operation for the execution of the experiment, as well as the files to visualize the results (ipynb from the Notebook Jupyter).
 
 SQL> Script for creating, extracting, transforming and loading data.
