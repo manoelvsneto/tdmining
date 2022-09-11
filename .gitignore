@@ -8,3 +8,5 @@ SQL/INDUSTRY/.vs
 SQL/**/*.json
 SQL/**/*.sqlite
 SQL/**/*.ssms_suo
+venv
+.idea
